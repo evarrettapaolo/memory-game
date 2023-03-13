@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.grid{
+    width: 400px;
+    height: 308px;
+    border: solid black 1px;
+}
